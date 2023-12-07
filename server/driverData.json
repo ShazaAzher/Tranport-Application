@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Tony",
+        "gender": "Male",
+        "available": "yes"
+    },
+    {
+        "name": "Bella",
+        "gender": "Female",
+        "available": "no"
+    }
+]

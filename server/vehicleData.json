@@ -1,0 +1,30 @@
+[
+    {
+        "_id":{"$oid":"6566f237331a5d1046d5368f"},
+        "model": "Infernus",
+        "category": "Sports",
+        "available": true,
+        "thumbnail": "https://static.wikia.nocookie.net/gtawiki/images/0/0e/Infernus-GTAV-front.png"
+    },
+    {
+        "_id":{"$oid":"6566f26e331a5d1046d53690"},
+        "model": "Washington",
+        "category": "Four-door",
+        "available": true,
+        "thumbnail": "https://static.wikia.nocookie.net/gtawiki/images/1/12/Washington-GTAV-front.png"
+    },
+    {
+        "_id":{"$oid":"6566f28d331a5d1046d53691"},
+        "model": "Freeway",
+        "category": "Motorcycle",
+        "available": true,
+        "thumbnail": "https://static.wikia.nocookie.net/gtawiki/images/f/fb/Freeway-GTAIV-front.png"
+    },
+    {
+        "_id":{"$oid":"6565c74068b4ec3334c047ed"},
+        "model": "",
+        "category": "",
+        "available": true,
+        "thumbnail": ""
+    }
+]
